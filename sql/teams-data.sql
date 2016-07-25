@@ -1,0 +1,16 @@
+insert into teams (company_id, user_id, contact_user) values
+	(1, 1, TRUE),
+	(2, 3, FALSE),
+	(3, 4, TRUE),
+	(4, 5, TRUE),
+	(5, 6, FALSE),
+	(6, 7, TRUE),
+	(7, 8, TRUE),
+	(8, 9, FALSE),
+	(9, 10, TRUE),
+	(1, 11, TRUE),
+	(2, 12, FALSE),
+	(12, 13, TRUE),
+	(10, 14, TRUE),
+	(11, 15, FALSE),
+	(2, 16, TRUE)

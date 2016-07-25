@@ -1,0 +1,18 @@
+insert into applications (user_id, listing_id, cover_letter) values
+	(2, 1, '1 Hello, ...'),
+	(1, 2, '2 Hello, ...'),
+	(3, 5, '3 Hello, ...'),
+	(4, 6, '4 Hello, ...'),
+	(5, 7, '5 Hello, ...'),
+	(6, 8, '6 Hello, ...'),
+	(7, 9, '7 Hello, ...'),
+	(8, 10, '8 Hello, ...'),
+	(9, 11, '9 Hello, ...'),
+	(12, 12, '10 Hello, ...'),
+	(11, 13, '11 Hello, ...'),
+	(10, 14, '12 Hello, ...'),
+	(14, 15, '13 Hello, ...'),
+	(15, 16, '14 Hello, ...'),
+	(16, 17, '15 Hello, ...'),
+	(18, 18, '16 Hello, ...'),
+	(20, 19, '17 Hello, ...')

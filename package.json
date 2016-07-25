@@ -1,0 +1,21 @@
+{
+  "name": "jobbatical-api",
+  "version": "0.0.1",
+  "scripts":{
+    "start": "node jobbatical-server.js",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "async": "^1.5.2",
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "morgan": "^1.6.1",
+    "pg-pool": "^1.3.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "nodemon": "^1.9.2",
+    "supertest": "^1.2.0"
+  }
+}
